@@ -19,4 +19,3 @@ class Band extends Component {
 };
 
 export default Band;
-
